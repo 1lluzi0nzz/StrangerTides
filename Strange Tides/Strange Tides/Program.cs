@@ -17,8 +17,8 @@ namespace Strange_Tides
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-            Console.WriteLine("");
+            Application.Run(new TitleScreen());
+            Console.WriteLine("Application Started...");
         }
     }
 }

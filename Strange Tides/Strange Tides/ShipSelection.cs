@@ -10,12 +10,11 @@ using System.Windows.Forms;
 
 namespace Strange_Tides
 {
-    public partial class Form1 : Form
+    public partial class ShipSelection : Form
     {
-        public Form1()
+        public ShipSelection()
         {
             InitializeComponent();
         }
-
     }
 }

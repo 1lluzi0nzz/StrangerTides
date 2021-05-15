@@ -1,0 +1,19 @@
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\bin\Debug\net5.0-windows\Strange Tides.exe
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\bin\Debug\net5.0-windows\Strange Tides.deps.json
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\bin\Debug\net5.0-windows\Strange Tides.runtimeconfig.json
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\bin\Debug\net5.0-windows\Strange Tides.runtimeconfig.dev.json
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\bin\Debug\net5.0-windows\Strange Tides.dll
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\bin\Debug\net5.0-windows\ref\Strange Tides.dll
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\bin\Debug\net5.0-windows\Strange Tides.pdb
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange_Tides.TitleScreen.resources
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange Tides.csproj.GenerateResource.cache
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange Tides.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange Tides.AssemblyInfoInputs.cache
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange Tides.AssemblyInfo.cs
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange Tides.csproj.CoreCompileInputs.cache
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange Tides.dll
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\ref\Strange Tides.dll
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange Tides.pdb
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange Tides.genruntimeconfig.cache
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange_Tides.Properties.Resources.resources
+E:\Projects\StrangerTides\Strange Tides\Strange Tides\obj\Debug\net5.0-windows\Strange_Tides.ShipSelection.resources
